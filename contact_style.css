@@ -1,0 +1,96 @@
+ .navbar {  
+    margin-bottom: 0px !important;
+    border:none !important;
+}
+ .menu2 li{
+	float: left;
+	list-style: none;
+}
+.img1_div:hover{
+	opacity: 0.5;
+}
+.menu_2{
+	position: relative;
+}
+.menu2 a{
+	text-decoration: none;
+	color: #a6a6a5;
+	}
+.menu2{
+	margin-top:-50px; 
+	position: absolute;			
+}
+.menu2 ul{
+	padding-left:50px; 
+}
+.section1, .foot_div{
+	margin-top: 80px; 
+}
+.section1_div1, .section1_div2{
+	color: white;
+	font-size: 20px;
+}
+.section1_div{
+	margin-top: 50px;
+}
+.sec_div{
+	background: url(pig/cont.jpg);
+	height: 200px;
+}
+.sec_div1{
+	background: url(pig/cont2.jpg);
+	height: 200px;
+}
+.section1:hover{
+	opacity: 0.5;
+
+}
+.section_p{
+	margin-top: 50px; 
+
+}
+.section2 input, .section2 select, .section2 textarea{
+	margin-bottom: 5px; 
+}
+     
+.contact_div{
+	background: black;
+	color: white;
+	border: 1px solid black;
+	margin-top: 20px;
+}
+.section3{
+	margin-top: 50px; 
+	background: #efefef;
+}
+
+.foot_div{
+	background: black;
+	height: 365px;
+	padding-top: 50px;
+}
+.foot_div1{
+	margin-top: 50px;
+}
+.foot_div1_button button{
+	float: right;
+	margin-top: 10px;
+	border: 1px solid #9faaa3;
+	background: #9faaa3;
+}
+.foot_div1_2{
+	padding-right: 5px;
+	float: right;
+}
+.foot_div1_1{
+	float: left;
+}
+.col-md-12,.col-md-11,.col-md-10,.col-md-9,.col-md-8,.col-md-7,.col-md-6,.col-md-5,.col-md-4,
+.col-md-3,.col-md-2,.col-md-1{
+	padding-right:  0 !important;
+	padding-left:  0 !important;
+	/*margin-left: -15px;*/
+	    /*margin-left: 0  !important;*/
+}
+
+

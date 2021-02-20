@@ -1,0 +1,74 @@
+  .navbar {  
+    margin-bottom: 0px !important;
+    border:none !important;
+}
+ .menu2 li{
+	float: left;
+	list-style: none;
+	/*margin-right: 50px;*/
+}
+.img1_div:hover{
+	opacity: 0.5;
+}
+.menu2 a{
+	text-decoration: none;
+	color: #a6a6a5;
+	}
+.menu2{
+	margin-top:-70px; 			
+}
+.menu2 ul{
+	padding-left:50px; 
+}
+ .foot_div{
+	margin-top: 80px; 
+}
+.section1,.section1_div{
+	margin-top: 50px ;
+}
+.section1_1 button{
+	background: red;
+	border: none;
+	color: white;
+	height: 70px;
+	width: 70px;
+	font-size: 30px;
+}
+.section1{
+	background: url(pig/kkk.jpg);
+	height:  200px;
+}
+.section1:hover{
+	opacity: 0.5;
+}
+
+.foot_div{
+	background: black;
+	height: 365px;
+	padding-top: 50px;
+}
+.foot_div1{
+	margin-top: 50px;
+}
+.foot_div1_button button{
+	float: right;
+	margin-top: 10px;
+	border: 1px solid #9faaa3;
+	background: #9faaa3;
+}
+.foot_div1_2{
+	padding-right: 5px;
+	float: right;
+}
+.foot_div1_1{
+	float: left;
+}
+.col-md-12,.col-md-11,.col-md-10,.col-md-9,.col-md-8,.col-md-7,.col-md-6,.col-md-5,.col-md-4,
+.col-md-3,.col-md-2,.col-md-1{
+	padding-right:  0 !important;
+	padding-left:  0 !important;
+	/*margin-left: -15px;*/
+	    /*margin-left: 0  !important;*/
+}
+
+

@@ -1,0 +1,114 @@
+ .navbar {  
+    margin-bottom: 0px !important;
+    border:none !important;
+}
+ .menu2 li{
+	float: left;
+	list-style: none;
+	/*margin-right: 50px;*/
+}
+.img1_div:hover{
+	opacity: 0.5;
+}
+.menu2 a{
+	text-decoration: none;
+	color: #a6a6a5;
+	}
+.menu2{
+	margin-top:-70px; 			
+}
+.menu2 ul{
+	padding-left:50px; 
+}
+.one_div{
+	background: url(pig/ggg.jpg);
+	height: 600px;
+}
+.one_div1{
+	background: url(pig/parramatta-commercial-lawyers-300x199.jpg);
+	height: 600px;
+}
+.section22_div {
+	background: url(pig/fff.jpg);
+	height: 270px;
+}
+.thry_div{
+	background: url(pig/hh.jpg);
+	height: 270px;
+}
+.thry_div1{
+	background: url(pig/ccc.jpg);
+	height: 270px;
+}
+ .foot_div{
+	margin-top: 80px; 
+}
+.section1_div,.section3_p{
+	margin-top: 50px;
+}
+.section1_div1, .section1_div2{
+	color: white;
+	font-size: 20px;
+}
+.section1,.section2,.section3{
+	margin-top: 50px; 
+	color: white;
+}
+.section1{
+	position: relative;
+}
+.section21{
+	margin-top: 50px
+}
+.section1_0{
+	background: url(pig/nkar.jpg);
+	height: 300px;
+	margin-top: 100px;
+
+}
+.section1_black{
+	background: black;
+	height: 190px;
+	position: absolute;
+	margin-top: -350px;
+}
+.section1_black_1{
+	margin-top: 50px;
+}
+.section1_1{
+	margin-top: 30px;
+}
+
+.section2:hover,.section3 :hover{
+	opacity: 0.5;
+}
+.foot_div{
+	background: black;
+	height: 365px;
+	padding-top: 50px;
+}
+.foot_div1{
+	margin-top: 50px;
+}
+.foot_div1_button button{
+	float: right;
+	margin-top: 10px;
+	border: 1px solid #9faaa3;
+	background: #9faaa3;
+}
+.foot_div1_2{
+	padding-right: 5px;
+	float: right;
+}
+.foot_div1_1{
+	float: left;
+}
+.col-md-12,.col-md-11,.col-md-10,.col-md-9,.col-md-8,.col-md-7,.col-md-6,.col-md-5,.col-md-4,
+.col-md-3,.col-md-2,.col-md-1{
+	padding-right:  0 !important;
+	padding-left:  0 !important;
+	/*margin-left: -15px;*/
+	    /*margin-left: 0  !important;*/
+}
+
+
